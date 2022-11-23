@@ -1,2 +1,2 @@
 # Recipes
-Odin site, practice making a site for recipes
+Odin site, Site with all my favorite foods
